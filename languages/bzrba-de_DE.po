@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-14 13:07+0530\n"
+"PO-Revision-Date: 2021-01-14 13:51+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#: rba-settings.php:112 rba-settings.php:114
+msgid "Save"
+msgstr "Sparen"
+
+#: rba-settings.php:122 rba-settings.php:132
+msgid "Hide the \""
+msgstr "Verstecke das \""
+
+#: rba-settings.php:122 rba-settings.php:126
+#: rba-settings.php:132
+msgid " - Rebrand\" menu item?"
+msgstr " - Menüpunkt \"Rebrand\"?"
+
+#: rba-settings.php:126
+msgid "Show the \""
+msgstr "Zeige den \""
+
+#: rba-settings.php:214 rba-settings.php:220
+#: rba-settings.php:221
+msgid "Rebrand"
+msgstr "Rebrand"
+
+#: admin/bzrba-settings-rebranding.php:2
+msgid "Rebranding"
+msgstr "Rebranding"
+
+#: admin/bzrba-settings-rebranding.php:16
+#: admin/bzrba-settings-rebranding.php:23
+msgid "Branding"
+msgstr "Branding"
+
+#: admin/bzrba-settings-rebranding.php:17
+msgid "Settings"
+msgstr "Die Einstellungen"
+
+#: admin/bzrba-settings-rebranding.php:24
+msgid "You can white label the plugin as per your requirement."
+msgstr "Sie können das Plugin gemäß Ihren Anforderungen weiß beschriften."
+
+#: admin/bzrba-settings-rebranding.php:29
+msgid "Plugin Name"
+msgstr "Plugin Name"
+
+#: admin/bzrba-settings-rebranding.php:37
+msgid "Plugin Description"
+msgstr "Plugin Beschreibung"
+
+#: admin/bzrba-settings-rebranding.php:45
+msgid "Developer / Agency"
+msgstr "Entwickler / Agentur"
+
+#: admin/bzrba-settings-rebranding.php:53
+msgid "Website URL"
+msgstr "Webadresse"
+
+#: admin/bzrba-settings-rebranding.php:62
+msgid "Primary Color"
+msgstr "Primärfarbe"
+
+#: admin/bzrba-settings-rebranding.php:70
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/bzrba-settings-rebranding.php:90
+#: admin/bzrba-settings-rebranding.php:117
+msgid "Upload"
+msgstr "Hochladen"
+
+#: admin/bzrba-settings-rebranding.php:99
+msgid "Loader Image"
+msgstr "Loader Image"
+
+#: admin/bzrba-settings-rebranding.php:135
+msgid "Hide BerthaAI External Links"
+msgstr "Verstecke BerthaAI Externe Links"
+
+#: admin/bzrba-settings-rebranding.php:144
+msgid "Hide General Settings"
+msgstr "Allgemeine Einstellungen ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:153
+msgid "Hide Company Settings"
+msgstr "Firmeneinstellungen ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:162
+msgid "Hide Notifications Settings"
+msgstr "Benachrichtigungseinstellungen ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:171
+msgid "Hide Working Hours & Days Off Settings"
+msgstr "Einstellungen für Arbeitszeiten und arbeitsfreie Tage ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:180
+msgid "Hide Payments Settings"
+msgstr "Zahlungseinstellungen ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:189
+msgid "Hide Integrations Settings"
+msgstr "Integrationseinstellungen ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:198
+msgid "Hide Appointments Settings"
+msgstr "Termineinstellungen ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:207
+msgid "Hide Labels Settings"
+msgstr "Beschriftungseinstellungen ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:216
+msgid "Hide Roles Settings"
+msgstr "Rolleneinstellungen ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:225
+msgid "Hide Activation Settings"
+msgstr "Aktivierungseinstellungen ausblenden"
+
+#: admin/bzrba-settings-rebranding.php:238
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: lmgr/AutoUpdater.php:60
+msgid "An error occour when try to identify the pluguin."
+msgstr "Beim Versuch, das Plugin zu identifizieren, tritt ein Fehler auf."
+
+#: lmgr/AutoUpdater.php:60 lmgr/AutoUpdater.php:63
+msgid "Try again"
+msgstr "Versuchen Sie es nochmal"
+
+#: lmgr/AutoUpdater.php:63
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+"Während der API-Anforderung ist ein unerwarteter HTTP-Fehler aufgetreten."
+
+#: lmgr/rba-licence.php:51 lmgr/rba-licence.php:52
+msgid "Rebrand BerthaAI License"
+msgstr "Rebrand BerthaAI Lizenz"
+
+#: lmgr/rba-licence.php:137
+msgid "License Information"
+msgstr "Lizenzinformationen"
+
+#: lmgr/rba-licence.php:258
+msgid "You have an active license."
+msgstr "Sie haben eine aktive Lizenz."
+
+#: lmgr/rba-licence.php:260
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item."
+msgstr ""
+"Bitte geben Sie den Lizenzschlüssel für dieses Produkt ein, um es zu "
+"aktivieren. Sie haben beim Kauf dieses Artikels einen Lizenzschlüssel "
+"erhalten."
+
+#: lmgr/rba-licence.php:273
+msgid "License Key"
+msgstr "Lizenzschlüssel"
+
+#: lmgr/rba-licence.php:290
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: lmgr/rba-licence.php:292
+msgid "Activate"
+msgstr "Aktivieren Sie"
+
+#: lmgr/rba-licence.php:294
+msgid "Reset"
+msgstr "Zurücksetzen"
